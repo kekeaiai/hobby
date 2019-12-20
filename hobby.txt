@@ -2,3 +2,4 @@ sleeping
 eating
 shopping
 coding
+playing
